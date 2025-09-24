@@ -6,7 +6,7 @@ import requests
 # weather api
 API_KEY='place your own api key here'
 BASE_URL='https://api.openweathermap.org/data/2.5/weather'
-# url = 'https://api.openweathermap.org/data/2.5/weather?q=city name&appid=f619220b0484123e804daa0ea7d7617e'
+# url = 'https://api.openweathermap.org/data/2.5/weather?q=city name&appid={api_key}'
 
 
 # creating the main window
